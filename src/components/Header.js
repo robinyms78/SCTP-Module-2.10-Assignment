@@ -13,7 +13,7 @@ function Header() {
 
     return (
         <>
-        <img src={photo} alt='photo' style={imageStyle} />
+        <img src={photo} style={imageStyle} />
         <h1>Robin Yap</h1>
         <h2>Software Engineer</h2>
         </>
