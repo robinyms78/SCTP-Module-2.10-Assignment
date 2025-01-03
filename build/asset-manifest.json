@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/robinyms78/static/css/main.aa3d8e4b.css",
-    "main.js": "/robinyms78/static/js/main.5fa36343.js",
-    "static/media/photo.jpg": "/robinyms78/static/media/photo.351fa8d3cf934e33513a.jpg",
-    "index.html": "/robinyms78/index.html",
-    "main.aa3d8e4b.css.map": "/robinyms78/static/css/main.aa3d8e4b.css.map",
-    "main.5fa36343.js.map": "/robinyms78/static/js/main.5fa36343.js.map"
+    "main.css": "/robinyms78/SCTP-Module-2.10-Assignment/static/css/main.aa3d8e4b.css",
+    "main.js": "/robinyms78/SCTP-Module-2.10-Assignment/static/js/main.f35d9a38.js",
+    "static/media/photo.jpg": "/robinyms78/SCTP-Module-2.10-Assignment/static/media/photo.351fa8d3cf934e33513a.jpg",
+    "index.html": "/robinyms78/SCTP-Module-2.10-Assignment/index.html",
+    "main.aa3d8e4b.css.map": "/robinyms78/SCTP-Module-2.10-Assignment/static/css/main.aa3d8e4b.css.map",
+    "main.f35d9a38.js.map": "/robinyms78/SCTP-Module-2.10-Assignment/static/js/main.f35d9a38.js.map"
   },
   "entrypoints": [
     "static/css/main.aa3d8e4b.css",
-    "static/js/main.5fa36343.js"
+    "static/js/main.f35d9a38.js"
   ]
 }
