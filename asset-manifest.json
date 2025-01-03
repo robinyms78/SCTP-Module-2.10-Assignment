@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/robinyms78/my-app/static/css/main.aa3d8e4b.css",
+    "main.js": "/robinyms78/my-app/static/js/main.f1782fb8.js",
+    "static/media/photo.jpg": "/robinyms78/my-app/static/media/photo.351fa8d3cf934e33513a.jpg",
+    "index.html": "/robinyms78/my-app/index.html",
+    "main.aa3d8e4b.css.map": "/robinyms78/my-app/static/css/main.aa3d8e4b.css.map",
+    "main.f1782fb8.js.map": "/robinyms78/my-app/static/js/main.f1782fb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa3d8e4b.css",
+    "static/js/main.f1782fb8.js"
+  ]
+}
